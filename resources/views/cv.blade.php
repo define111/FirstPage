@@ -13,7 +13,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-8 col-lg-10 mx-auto">
-        <p class="lead mb-5">Ihre wahren Stärken lassen nach einer Analyse von Ihrem bisherigen Werdegang leichter identifizieren. Der Experte wird Ihren Lebenslauf prüfen und bei Bedarf mit Ihnen eine Rücksprache halten. Sie bekommen von uns eine Analyse von Ihren Stärken und Fähigkeiten, die auf Ihrer Biografie basiert ist. Sie bekommen ebenfalls Bemerkungen und Feedback, das Sie für Ihre zukunftigen Entscheidungen verwenden können. Probieren Sie es aus!</p>
+        <p class="lead mb-5">Ihre wahren Stärken lassen sich nach einer Analyse von Ihrem bisherigen Werdegang leichter identifizieren. Der Experte wird Ihren Lebenslauf prüfen und bei Bedarf mit Ihnen eine Rücksprache halten. Sie bekommen von uns eine Analyse von Ihren Stärken und Fähigkeiten, die auf Ihrer Biografie basiert ist. Sie bekommen ebenfalls Bemerkungen und Feedback, das Sie für Ihre zukunftigen Entscheidungen verwenden können. Probieren Sie es aus!</p>
       </div>
     </div>
     <div class="row">

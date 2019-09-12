@@ -13,7 +13,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-8 col-lg-10 mx-auto">
-        <p class="lead mb-5">Unsere Vision ist, dass Sie Spaß und Erfolg in Ihrem Beruf haben. Spaß am Arbeiten bedeutet mehr Zufriedenheit, weniger Stress uns besseres Verhältnis zu den Kollegen und Vorgesetzten.
+        <p class="lead mb-5">Unsere Vision ist, dass Sie Spaß und Erfolg in Ihrem Beruf haben. Spaß am Arbeiten bedeutet mehr Zufriedenheit, weniger Stress und besseres Verhältnis zu den Kollegen und Vorgesetzten.
           Wenn das noch nicht der Fall ist, muss eine Veränderung her, weil es sonst negative Konsequenzen haben kann.
           Wir arbeiten daran, Ihr Wohlgefühl am Arbeitsplatz nachhaltig zu verbessern.
           Wir werden mir Ihnen verschiedene Modelle ausprobieren, damit Sie Ihr Ziel erreichen.</p>

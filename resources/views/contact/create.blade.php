@@ -38,7 +38,7 @@
           </svg>
         </div>
         <h3 class="h5">E-mail</h3>
-        <p class="text-muted">Schreiben Sie und gerne eine E-mail.</p>
+        <p class="text-muted">Schreiben Sie uns gerne eine E-Mail.</p>
         <ul class="list-unstyled text-muted">
           <li>contact@cooperini.de</li>
         </ul>
