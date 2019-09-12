@@ -18,7 +18,7 @@
     </div>
     <div class="row">
       <div class="col-xl-8 col-lg-10 mx-auto">
-        <p class="lead mb-5">Falls Sie darüber mehr erfahren wollen, Schreiben Sie uns eine <a href="/contakt">Nachricht</a>. Wir werden Sie gerne kontaktieren.</p>
+        <p class="lead mb-5">Falls Sie darüber mehr erfahren wollen, schreiben Sie uns eine <a href="/contakt">Nachricht</a>. Wir werden Sie gerne kontaktieren.</p>
       </div>
     </div>
   </div>
