@@ -1,11 +1,9 @@
 @component('mail::message')
 
-# Vielen Dank für Ihre Nachricht </strong> {{ $data['name'] }} {{ $data['surname'] }}!
+From: <strong> {{ $data['name'] }} {{ $data['surname'] }} </strong>
 
-Wir werden Ihre Anfrage schnellstmöglich beantworten.
+E-mail: <strong> {{ $data['email'] }} </strong>
 
-Herzliche Grüße
-
-Cooperini - Team
+Nachricht: <strong> {{ $data['message'] }} </strong>
 
 @endcomponent

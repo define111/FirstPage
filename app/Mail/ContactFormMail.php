@@ -29,6 +29,6 @@ class ContactFormMail extends Mailable
      */
     public function build()
     {
-        return $this->subject('Deine Anfrage')->markdown('emails.contact.contact-form');
+        return $this->subject('Eine neue Anfrage')->markdown('emails.contact.contact-form');
     }
 }

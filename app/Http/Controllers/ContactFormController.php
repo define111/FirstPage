@@ -24,8 +24,8 @@ class ContactFormController extends Controller
     foreach ($data as $key => $value)
     $mail->$key = $value;
     $mail->save();
-    // Mail::to($data['email'])->send(new ContactFormMail($data));
     Mail::to('marta.krawczyk@mail.de')->send(new ContactFormMail($data));
+    Mail::to('contact@cooperini.de')->send(new ContactFormMail($data));
     return redirect('contact')->with('message', 'success');
   }
 
